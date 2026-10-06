@@ -5,7 +5,7 @@
  * Replace the three "#" placeholders when the final public app/admin URLs are confirmed.
  */
 const RIDEX_SITE_CONFIG = {
-  adminLoginUrl: "#",
+  adminLoginUrl: "https://ridex-admin-web.onrender.com",
   customerAppUrl: "#",
   driverAppUrl: "#",
 };
